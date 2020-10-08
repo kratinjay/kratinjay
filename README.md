@@ -1,4 +1,4 @@
-#### Hi there, 👋 I am <A href="https://kratinjay.github.io/">Kratinjay Gupta</A>
+## Hi there, 👋 I am <A href="https://kratinjay.github.io/">Kratinjay Gupta</A>
 
 - 🔭 I’m currently working on WordPress
 - 🌱 I’m currently learning Full-Stack Development
