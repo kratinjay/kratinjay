@@ -1,4 +1,4 @@
-### Hi there, 👋 I am <A href="https://kratinjay.github.io/">Kratinjay Gupta</A>
+#### Hi there, 👋 I am <A href="https://kratinjay.github.io/">Kratinjay Gupta</A>
 
 - 🔭 I’m currently working on WordPress
 - 🌱 I’m currently learning Full-Stack Development
@@ -20,7 +20,7 @@ I am Computer Science student, pursuing Bachelors in Computer Application(BCA). 
 <h4><b>Operating Systems</b></h4>
 
 <h3><b>Live/working Projects</b></h3>
-<a href="https://eatspecial.in/"><h4><b>EatSpecial.in (A Food Blog)</b></h4></a>
+<a href="https://eatspecial.in/"><h4><b>EatSpecial.in</b></h4></a>
 <a><h4><b>Scientific calculator</b></h4></a>
 
 
