@@ -11,7 +11,10 @@ I am Computer Science student, pursuing Bachelors in Computer Application(BCA). 
 
 <h3><b>Skills:</b></h3>
 <h4><b>Front-End</b></h4>
-<img src="https://www.flaticon.com/svg/static/icons/svg/179/179327.svg"></img>
+<img src="https://www.flaticon.com/svg/static/icons/svg/179/179327.svg" width=40px></img>
+<img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" width=40px></img>
+<img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" width=40px></img>
+<img src="https://www.flaticon.com/svg/static/icons/svg/174/174881.svg" width=40px></img>
 <h4><b>Back-End</b></h4>
 
 <h3><b> Miscelleneous SKills:</b></h3>
