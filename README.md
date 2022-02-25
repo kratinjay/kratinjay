@@ -1,5 +1,5 @@
 ## Hey You! 👋 
-##Thanks for checking out my profile.
+## Thanks for checking out my profile.
 
 ## I am <A href="https://kratinjay.github.io/">Kratinjay Gupta</A>
 - 🔭 I’m currently learning WordPress Plugin and Themes Development.
@@ -7,7 +7,7 @@
 - 🙋🏻‍♂️ I’m looking to collaborate in Open Source Projects.
 
 <h3><b>Small Intro:</b></h3>
-I am Computer Science Graduate, in Bachelors in Computer Application(BCA). I am a life-time learner with a keen interest in Web Development, I love collaborating in Open Source.
+I am Computer Science Graduate, in Bachelors of Computer Application(BCA). I am a life-time learner with a keen interest in Web Development. I love collaborating in Open Source.
 
 <hr>
 
