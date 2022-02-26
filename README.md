@@ -34,7 +34,9 @@ I am Computer Science Graduate, in Bachelors of Computer Application(BCA). I am 
 </ul>
 <h4><b>Operating Systems</b></h4>
 <ul>
-<li><img src="https://img.icons8.com/color/344/windows-10.png" width=30px></img></li>
-<li><img src="https://img.icons8.com/color/344/ubuntu--v1.png" width=30px></img></li>
+<li><img src="images/windows.png" width=30px></img></li>
+<li><img src="images/ubuntu.png" width=30px></img></li>
 </ul>
-<!--<h4>Chat with Me one to one here:-</h4>-->
+<h4>Chat with Me one to one here:-</h4>
+<li><img src="images/linkedin.png" width=30px></img></li>
+<li><img src="images/twitter.png" width=30px></img></li>
