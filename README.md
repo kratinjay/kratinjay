@@ -12,12 +12,9 @@ I am Computer Science Graduate, in Bachelors of Computer Application(BCA). I am 
 <hr>
 <h3><b>Skills:</b></h3>
 <h4><b>Front-End</b></h4>
-<ul style="list-decoration: none; display:inline-block; ">
-<li><img src="https://www.flaticon.com/free-icons/html" width=30px></img></li>
-<li><img src="https://www.flaticon.com/free-icons/html" width=30px></img></li>
+<img src="https://www.flaticon.com/free-icons/html" width=30px></img><img src="https://www.flaticon.com/free-icons/html" width=30px></img>
 <li><img src="https://img.icons8.com/color/344/javascript.png" width=30px></img></li>
 <li><img src="https://www.flaticon.com/svg/static/icons/svg/174/174881.svg" width=30px></img></li>
-</ul>
 <h4><b>Back-End</b></h4>
 <ul style="list-decoration: none; display:inline-block; ">
 <li><img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width=30px></img></li>
