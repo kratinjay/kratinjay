@@ -39,6 +39,6 @@ I am Computer Science Graduate, in Bachelors of Computer Application(BCA). I am 
 </ul>
 <h4>Chat with Me one to one here:-</h4>
 <ul>
-<li><a href="https://twitter.com/kratinjay"><img src="images/linkedin.png" width=30px></a></li>
-<li><a href="https://www.linkedin.com/in/kratinjay/"><img src="images/twitter.png" width=30px></a></li>
+<li><a href="https://twitter.com/kratinjay"><img src="images/twitter.png" width=30px></a></li>
+<li><a href="https://www.linkedin.com/in/kratinjay/"><img src="images/linkedin.png" width=30px></a></li>
 </ul>
