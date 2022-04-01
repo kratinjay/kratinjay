@@ -1,7 +1,7 @@
 ## Hey You! 👋 
 ## Thanks for checking out my profile.
 
-## I am <A href="https://kratinjay.github.io/">Kratinjay Gupta</A>
+## I am <A href="https://kratinjay.me/">Kratinjay Gupta</A>
 - 🔭 I’m currently learning WordPress Plugin and Themes Development.
 - 🌱 I’m also learning Full-Stack Development.
 - 🙋🏻‍♂️ I’m looking to collaborate in Open Source Projects.
